@@ -22,3 +22,6 @@ See Massachusetts for an example. Ideally, the search tool would be able to take
 return the nearby locations in the assigned service area. In this hackathon, we will use the underlying mapping 
 data that LSC has on file to create new and helpful ways for low-income individuals to search for their appropriate 
 LSC location.
+
+Shape Escape:
+This app allows you to upload Shape format files and convert them to Google FusionTables, which allow you to visualize the data in Google Maps: http://www.shpescape.com/
