@@ -2,9 +2,22 @@ LSC-Mapping
 ===========
 
 FILES: https://www.dropbox.com/sh/n75n32jmw11gfge/8VEY5ikG76
+
 Comparison of Drupal Mapping tools: https://drupal.org/node/1704948
+
 KML Data: lsntap.org/GIS_Data_GE_KML
+
+Congressional district KML data: http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&ved=0CD0QFjAC&url=http%3A%2F%2Fwww.maps.ccgisc.org%2FKML%2FStateCongressionalDistricts.kmz&ei=pDBQUqf7Apaq4AOcrYHgBA&usg=AFQjCNHSqUnY4RPHLCOp9sUzBvnM7w2YAA&sig2=TX-xhthfYDTfA-dhvH1krA&bvm=bv.53537100,d.dmg
+
 Zipcode Data: http://lsntap.org/GIS_Data_GE_Geocode
+
+Nationwide service areas KML: https://www.dropbox.com/s/nhege8q7la28v49/LSC-Mapping%20SW.kml
+
+Sandbox: http://lscmapping.prelitigator.com/ (running out of a subdomain of Morris Singer's company, 
+for now, with the idea that a finished product will NOT be running out of the sandbox, but running 
+out of a production site hosted by LSC.)
+
+Online Intake list: http://lsntap.org/content/online-intake-and-online-screen-systems-0
 
 The Legal Services Corporation has presented us with a compelling issue for legal hackers 
 with the potential to help many low-income individuals around the country. 
@@ -22,3 +35,5 @@ See Massachusetts for an example. Ideally, the search tool would be able to take
 return the nearby locations in the assigned service area. In this hackathon, we will use the underlying mapping 
 data that LSC has on file to create new and helpful ways for low-income individuals to search for their appropriate 
 LSC location.
+
+Link to LSC list of offices, numbers, and URLs: https://www.dropbox.com/s/3y7onzkb7zs8x7u/LSC%20contacts.xlsx
